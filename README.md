@@ -1,19 +1,25 @@
-## Hey 👋, This is Luis Alejandro Cruz
-[![Gmail Badge](https://img.shields.io/badge/-alexrey1951@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alexrey1951@gmail.com)](mailto:alexrey1951@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/cruzacevedo-luis-alejandro-41aab730b-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/cruzacevedo-luis-alejandro-41aab730b/)](https://www.linkedin.com/in/www.linkedin.com/in/cruzacevedo-luis-alejandro-41aab730b/) [![Github Badge](https://img.shields.io/badge/-ALEXREY1-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ALEXREY1/)](https://www.github.com/ALEXREY1/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/ALEXREY-1?tab=repositories/)](https://github.com/ALEXREY-1?tab=repositories/) <p align='left'>Me apasiona el mundo de la tecnologia desde pequeño y como estas revolucionan en mundo costantemente.
+<h1 align="center">Hi 👋, I'm Luis Alejandro Cruz</h1>
+<h3 align="center">Un apasionado por la tecnologia!!!</h3>
 
-Actualmente curso el BootCamp en Data Science en TRIPLETEN
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrey-1&label=Profile%20views&color=0e75b6&style=flat" alt="alexrey-1" /> </p>
 
-- actualmente trabajo como coordinador logiostico en un 
-  empresa de trasporte de carga, pero quiero explorar este 
-  mundo de la programacion que siempre me ah apasionado.
+- 🌱 Ahora estoy Cursando **BootCamp en cientifico de Datos**
 
--Me encuentro estudiando y practicando lenguaje Python, 
-  SQL, Java
+- 👨‍💻 All of my projects are available at [https://github.com/ALEXREY-1?tab=repositories](https://github.com/ALEXREY-1?tab=repositories)
 
-- Me gusta encontrar soluciones a las problematicas y buscar </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/13cbF0k8ReFsN4TyfzTfv8SvtHjxdZ8qp/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=ALEXREY1 alt=ALEXREY1 /> </p>
+- 📫 Donde encontrarme **alexrey1951@gmail.com**
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ALEXREY1&show_icons=true&include_all_commits=true)](https://github.com/ALEXREY1/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALEXREY1&layout=compact)](https://github.com/ALEXREY1/github-readme-stats)
+- 📄 Sobre mis experiencias diria que... [Me gusta encontrar soluciones a las problematicas](Me gusta encontrar soluciones a las problematicas)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrey-1&show_icons=true&locale=en&layout=compact" alt="alexrey-1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexrey-1&show_icons=true&locale=en" alt="alexrey-1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexrey-1&" alt="alexrey-1" /></p>
